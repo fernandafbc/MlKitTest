@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661911068496",
+    "project_id": "mlkitstudy-e5d46",
+    "storage_bucket": "mlkitstudy-e5d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661911068496:android:f253268b93b70e1a5d9655",
+        "android_client_info": {
+          "package_name": "com.example.mlkittest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661911068496-dbbknvj0co9ak5n71sht2h87df6n9i0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwW6nZOKM9lgREfI-bsQql3RLmj42_3nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661911068496-dbbknvj0co9ak5n71sht2h87df6n9i0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
